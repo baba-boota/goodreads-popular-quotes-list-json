@@ -4190,14 +4190,14 @@
         "book": "Catching Fire"
     },
     {
-        "quote": "Show me a hero, and I'll write you a tragedy.",
-        "author": "F. Scott Fitzgerald",
-        "book": null
-    },
-    {
         "quote": "Why do people have to be this lonely? What's the point of it all? Millions of people in this world, all of them yearning, looking to others to satisfy them, yet isolating themselves. Why? Was the earth put here just to nourish human loneliness?",
         "author": "Haruki Murakami",
         "book": "Sputnik Sweetheart"
+    },
+    {
+        "quote": "Show me a hero, and I'll write you a tragedy.",
+        "author": "F. Scott Fitzgerald",
+        "book": null
     },
     {
         "quote": "She generally gave herself very good advice, (though she very seldom followed it).",
@@ -4730,6 +4730,11 @@
         "book": "The Picture of Dorian Gray"
     },
     {
+        "quote": "No mourners. No funerals. Among them, it passed for 'good luck.",
+        "author": "Leigh Bardugo",
+        "book": "Six of Crows"
+    },
+    {
         "quote": "Nothing is so painful to the human mind as a great and sudden change.",
         "author": "Mary Wollstonecraft Shelley",
         "book": "Frankenstein"
@@ -4738,11 +4743,6 @@
         "quote": "Success is not how high you have climbed, but how you make a positive difference to the world.",
         "author": "Roy T. Bennett",
         "book": "The Light in the Heart"
-    },
-    {
-        "quote": "No mourners. No funerals. Among them, it passed for 'good luck.",
-        "author": "Leigh Bardugo",
-        "book": "Six of Crows"
     },
     {
         "quote": "Trust yourself. You know more than you think you do.",
@@ -6940,14 +6940,14 @@
         "book": null
     },
     {
-        "quote": "Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.",
-        "author": "Steve Maraboli",
-        "book": null
-    },
-    {
         "quote": "Jesper knocked his head against the hull and cast his eyes heavenward. “Fine. But if Pekka Rollins kills us all, I’m going to get Wylan’s ghost to teach my ghost how to play the flute just so that I can annoy the hell out of your ghost.”\nBrekker’s lips quirked. “I’ll just hire Matthias’ ghost to kick your ghost’s ass.”\n“My ghost won’t associate with your ghost,” Matthias said primly, and then wondered if the sea air was rotting his brain.",
         "author": "Leigh Bardugo",
         "book": "Six of Crows"
+    },
+    {
+        "quote": "Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.",
+        "author": "Steve Maraboli",
+        "book": null
     },
     {
         "quote": "It is a great thing to start life with a small number of really good books which are your very own.",
@@ -8055,14 +8055,14 @@
         "book": "The Sirens of Titan"
     },
     {
-        "quote": "Biology gives you a brain. Life turns it into a mind.",
-        "author": "Jeffrey Eugenides",
-        "book": "Middlesex"
-    },
-    {
         "quote": "Stay gold, Ponyboy. Stay gold . . .” The pillow seemed to sink a little, and Johnny died.",
         "author": "S.E. Hinton",
         "book": "The Outsiders"
+    },
+    {
+        "quote": "Biology gives you a brain. Life turns it into a mind.",
+        "author": "Jeffrey Eugenides",
+        "book": "Middlesex"
     },
     {
         "quote": "America will never be destroyed from the outside. If we falter and lose our freedoms, it will be because we destroyed ourselves.",
@@ -8205,6 +8205,11 @@
         "book": "Harry Potter and the Sorcerer's Stone"
     },
     {
+        "quote": "I say let the world go to hell, but I should always have my tea.",
+        "author": "Fyodor Dostoevsky",
+        "book": "Notes from Underground"
+    },
+    {
         "quote": "The unreal is more powerful than the real. Because nothing is as perfect as you can imagine it. Because its only intangible ideas, concepts, beliefs, fantasies that last. Stone crumbles. Wood rots. People, well, they die. But things as fragile as a thought, a dream, a legend, they can go on and on. If you can change the way people think. The way they see themselves. The way they see the world. You can change the way people live their lives. That's the only lasting thing you can create.",
         "author": "Chuck Palahniuk",
         "book": "Choke"
@@ -8213,11 +8218,6 @@
         "quote": "Yes, I was infatuated with you: I am still. No one has ever heightened such a keen capacity of physical sensation in me. I cut you out because I couldn't stand being a passing fancy. Before I give my body, I must give my thoughts, my mind, my dreams. And you weren't having any of those.",
         "author": "Sylvia Plath",
         "book": "The Unabridged Journals of Sylvia Plath"
-    },
-    {
-        "quote": "I say let the world go to hell, but I should always have my tea.",
-        "author": "Fyodor Dostoevsky",
-        "book": "Notes from Underground"
     },
     {
         "quote": "She says nothing at all, but simply stares upward into the dark sky and watches, with sad eyes, the slow dance of the infinite stars.",
@@ -8270,6 +8270,11 @@
         "book": null
     },
     {
+        "quote": "Books are easily destroyed. But words will live as long as people can remember them.",
+        "author": "Tahereh Mafi",
+        "book": "Unravel Me"
+    },
+    {
         "quote": "Books say: She did this because. Life says: She did this. Books are where things are explained to you; life is where things aren't. I'm not surprised some people prefer books.",
         "author": "Julian Barnes",
         "book": "Flaubert's Parrot"
@@ -8280,19 +8285,14 @@
         "book": "The Bell Jar"
     },
     {
-        "quote": "Books are easily destroyed. But words will live as long as people can remember them.",
-        "author": "Tahereh Mafi",
-        "book": "Unravel Me"
+        "quote": "When everyone knows you’re a monster, you needn’t waste time doing every monstrous thing.",
+        "author": "Leigh Bardugo",
+        "book": "Six of Crows"
     },
     {
         "quote": "Anyway, I keep picturing all these little kids playing some game in this big field of rye and all. Thousands of little kids, and nobody's around - nobody big, I mean - except me. And I'm standing on the edge of some crazy cliff. What I have to do, I have to catch everybody if they start to go over the cliff - I mean if they're running and they don't look where they're going I have to come out from somewhere and catch them. That's all I do all day. I'd just be the catcher in the rye and all. I know it's crazy, but that's the only thing I'd really like to be.",
         "author": "J.D. Salinger",
         "book": null
-    },
-    {
-        "quote": "When everyone knows you’re a monster, you needn’t waste time doing every monstrous thing.",
-        "author": "Leigh Bardugo",
-        "book": "Six of Crows"
     },
     {
         "quote": "A writer is someone for whom writing is more difficult than it is for other people.",
@@ -10020,6 +10020,11 @@
         "book": "Lady Chatterley's Lover"
     },
     {
+        "quote": "You may encounter many defeats, but you must not be defeated. In fact, it may be necessary to encounter the defeats, so you can know who you are, what you can rise from, how you can still come out of it.",
+        "author": "Maya Angelou",
+        "book": null
+    },
+    {
         "quote": "By the pricking of my thumbs,\nSomething wicked this way comes.",
         "author": "William Shakespeare",
         "book": "Macbeth"
@@ -10028,11 +10033,6 @@
         "quote": "Therefore, dear Sir, love your solitude and try to sing out with the pain it causes you. For those who are near you are far away... and this shows that the space around you is beginning to grow vast.... be happy about your growth, in which of course you can't take anyone with you, and be gentle with those who stay behind; be confident and calm in front of them and don't torment them with your doubts and don't frighten them with your faith or joy, which they wouldn't be able to comprehend. Seek out some simple and true feeling of what you have in common with them, which doesn't necessarily have to alter when you yourself change again and again; when you see them, love life in a form that is not your own and be indulgent toward those who are growing old, who are afraid of the aloneness that you trust.... and don't expect any understanding; but believe in a love that is being stored up for you like an inheritance, and have faith that in this love there is a strength and a blessing so large that you can travel as far as you wish without having to step outside it.",
         "author": "Rainer Maria Rilke",
         "book": "Letters to a Young Poet"
-    },
-    {
-        "quote": "You may encounter many defeats, but you must not be defeated. In fact, it may be necessary to encounter the defeats, so you can know who you are, what you can rise from, how you can still come out of it.",
-        "author": "Maya Angelou",
-        "book": null
     },
     {
         "quote": "Scared is what you're feeling. Brave is what you're doing.",
@@ -10365,14 +10365,14 @@
         "book": "The Uncommon Reader"
     },
     {
-        "quote": "I thought I'd lie on the floor and writhe in pain for a while,\" he grunted, \"It relaxes me.\"\n\"It does? Oh - you're being sarcastic. That's a good sign probably.",
-        "author": "Cassandra Clare",
-        "book": "City of Ashes"
-    },
-    {
         "quote": "I want to be the friend you fall hopelessly in love with. The one you take into your arms and into your bed and into the private world you keep trapped in your head. I want to be that kind of friend. The one who will memorize the things you say as well as the shape of your lips when you say them. I want to know every curve, every freckle, every shiver of your body.\n\nI want to know where to touch you, I want to know how to touch you. I want to know convince you to design a smile just for me. Yes, I do want to be your friend. I want to be your best friend in the entire world.",
         "author": "Tahereh Mafi",
         "book": "Unravel Me"
+    },
+    {
+        "quote": "I thought I'd lie on the floor and writhe in pain for a while,\" he grunted, \"It relaxes me.\"\n\"It does? Oh - you're being sarcastic. That's a good sign probably.",
+        "author": "Cassandra Clare",
+        "book": "City of Ashes"
     },
     {
         "quote": "إن المرأة تحب رجلها ليس لأنه أقوى الرجال، و لا أوسمهم، و لا أغناهم، بل لأنه هو.. بضعفه و قوته.. و الحب ليس إستعراض قوة لكنه طاقة عطاء دافئة مستمرة",
@@ -10995,14 +10995,14 @@
         "book": "Beloved"
     },
     {
-        "quote": "Catherine Earnshaw, may you not rest as long as I am living. You said I killed you--haunt me then. The murdered do haunt their murderers. I believe--I know that ghosts have wandered the earth. Be with me always--take any form--drive me mad. Only do not leave me in this abyss, where I cannot find you! Oh, God! It is unutterable! I cannot live without my life! I cannot live without my soul!",
-        "author": "Emily Brontë",
-        "book": "Wuthering Heights"
-    },
-    {
         "quote": "No Mourners.\nNo Funerals.",
         "author": "Leigh Bardugo",
         "book": "Six of Crows"
+    },
+    {
+        "quote": "Catherine Earnshaw, may you not rest as long as I am living. You said I killed you--haunt me then. The murdered do haunt their murderers. I believe--I know that ghosts have wandered the earth. Be with me always--take any form--drive me mad. Only do not leave me in this abyss, where I cannot find you! Oh, God! It is unutterable! I cannot live without my life! I cannot live without my soul!",
+        "author": "Emily Brontë",
+        "book": "Wuthering Heights"
     },
     {
         "quote": "Tomorrow may be hell, but today was a good writing day, and on the good writing days nothing else matters.",
@@ -11035,6 +11035,11 @@
         "book": "Harry Potter and the Half-Blood Prince"
     },
     {
+        "quote": "Until you make the unconscious conscious, it will direct your life and you will call it fate.",
+        "author": "C.G. Jung",
+        "book": null
+    },
+    {
         "quote": "You can only become truly accomplished at something you love. Don’t make money your goal. Instead pursue the things you love doing and then do them so well that people can’t take their eyes off of you.",
         "author": "Maya Angelou",
         "book": null
@@ -11042,11 +11047,6 @@
     {
         "quote": "I must be a mermaid, Rango. I have no fear of depths and a great fear of shallow living.",
         "author": "Anais Nin",
-        "book": null
-    },
-    {
-        "quote": "Until you make the unconscious conscious, it will direct your life and you will call it fate.",
-        "author": "C.G. Jung",
         "book": null
     },
     {
@@ -11275,14 +11275,14 @@
         "book": null
     },
     {
-        "quote": "When I was about eight, I decided that the most wonderful thing, next to a human being, was a book.",
-        "author": "Margaret Walker",
-        "book": null
-    },
-    {
         "quote": "What do you want?\"\n\"Just coffee. Black - like my soul.",
         "author": "Cassandra Clare",
         "book": "City of Bones"
+    },
+    {
+        "quote": "When I was about eight, I decided that the most wonderful thing, next to a human being, was a book.",
+        "author": "Margaret Walker",
+        "book": null
     },
     {
         "quote": "Blessed are the hearts that can bend; they shall never be broken.",
@@ -11740,6 +11740,11 @@
         "book": "A Lick of Frost"
     },
     {
+        "quote": "Maybe there were people who lived those lives. Maybe this girl was one of them. But what about the rest of us? What about the nobodies and the nothings, the invisible girls?We learn to hold our heads as if we wear crowns. We learn to wring magic from the ordinary.We learn to hold our heads as if we wear crowns. We learn to wring magic from the ordinary.That was how you survived when you weren’t chosen, when there was no royal blood in your veins. When the world owed you nothing, you demanded something of it anyway.",
+        "author": "Leigh Bardugo",
+        "book": "Crooked Kingdom"
+    },
+    {
         "quote": "When God Created Mothers\"\n\nWhen the Good Lord was creating mothers, He was into His sixth day of \"overtime\" when the angel appeared and said. \"You're doing a lot of fiddling around on this one.\"\n\nAnd God said, \"Have you read the specs on this order?\" She has to be completely washable, but not plastic. Have 180 moveable parts...all replaceable. Run on black coffee and leftovers. Have a lap that disappears when she stands up. A kiss that can cure anything from a broken leg to a disappointed love affair. And six pairs of hands.\"\n\nThe angel shook her head slowly and said. \"Six pairs of hands.... no way.\"\n\nIt's not the hands that are causing me problems,\" God remarked, \"it's the three pairs of eyes that mothers have to have.\"\n\nThat's on the standard model?\" asked the angel. God nodded.\n\nOne pair that sees through closed doors when she asks, 'What are you kids doing in there?' when she already knows. Another here in the back of her head that sees what she shouldn't but what she has to know, and of course the ones here in front that can look at a child when he goofs up and say. 'I understand and I love you' without so much as uttering a word.\"\n\nGod,\" said the angel touching his sleeve gently, \"Get some rest tomorrow....\"\n\nI can't,\" said God, \"I'm so close to creating something so close to myself. Already I have one who heals herself when she is sick...can feed a family of six on one pound of hamburger...and can get a nine year old to stand under a shower.\"\n\nThe angel circled the model of a mother very slowly. \"It's too soft,\" she sighed.\n\nBut tough!\" said God excitedly. \"You can imagine what this mother can do or endure.\"\n\nCan it think?\"\n\nNot only can it think, but it can reason and compromise,\" said the Creator.\n\nFinally, the angel bent over and ran her finger across the cheek.\n\nThere's a leak,\" she pronounced. \"I told You that You were trying to put too much into this model.\"\n\nIt's not a leak,\" said the Lord, \"It's a tear.\"\n\nWhat's it for?\"\n\nIt's for joy, sadness, disappointment, pain, loneliness, and pride.\"\n\nYou are a genius, \" said the angel.\n\nSomberly, God said, \"I didn't put it there.",
         "author": "Erma Bombeck",
         "book": "When God Created Mothers"
@@ -11748,11 +11753,6 @@
         "quote": "Ginny!\" said Mr. Weasley, flabbergasted. \"Haven't I taught you anything? What have I always told you? Never trust anything that can think for itself if you can't see where it keeps its brain?",
         "author": "J.K. Rowling",
         "book": "Harry Potter and the Chamber of Secrets"
-    },
-    {
-        "quote": "Maybe there were people who lived those lives. Maybe this girl was one of them. But what about the rest of us? What about the nobodies and the nothings, the invisible girls?We learn to hold our heads as if we wear crowns. We learn to wring magic from the ordinary.We learn to hold our heads as if we wear crowns. We learn to wring magic from the ordinary.That was how you survived when you weren’t chosen, when there was no royal blood in your veins. When the world owed you nothing, you demanded something of it anyway.",
-        "author": "Leigh Bardugo",
-        "book": "Crooked Kingdom"
     },
     {
         "quote": "You are not rich until you have a rich heart.",
@@ -11775,14 +11775,14 @@
         "book": "Ariel: The Restored Edition"
     },
     {
-        "quote": "You know, Hobbes, some days even my lucky rocket ship underpants don't help.",
-        "author": "Bill Watterson",
-        "book": null
-    },
-    {
         "quote": "We are all someone's monster.",
         "author": "Leigh Bardugo",
         "book": "Six of Crows"
+    },
+    {
+        "quote": "You know, Hobbes, some days even my lucky rocket ship underpants don't help.",
+        "author": "Bill Watterson",
+        "book": null
     },
     {
         "quote": "No book can be appreciated until it has been slept with and dreamed over.",
@@ -12150,14 +12150,14 @@
         "book": null
     },
     {
-        "quote": "Life before Death.\nStrength before Weakness.\nJourney before Destination.",
-        "author": "Brandon Sanderson",
-        "book": "The Way of Kings"
-    },
-    {
         "quote": "In the end\nthese things matter most:\nHow well did you love?\nHow fully did you live?\nHow deeply did you let go?",
         "author": "Jack Kornfield",
         "book": "Buddha's Little Instruction Book"
+    },
+    {
+        "quote": "Life before Death.\nStrength before Weakness.\nJourney before Destination.",
+        "author": "Brandon Sanderson",
+        "book": "The Way of Kings"
     },
     {
         "quote": "The question is not what you look at, but what you see.",
@@ -12720,6 +12720,11 @@
         "book": "I'll Give You the Sun"
     },
     {
+        "quote": "Marriage can wait, education cannot.",
+        "author": "Khaled Hosseini",
+        "book": "A Thousand Splendid Suns"
+    },
+    {
         "quote": "Fiction is the lie through which we tell the truth.",
         "author": "Albert Camus",
         "book": null
@@ -12738,11 +12743,6 @@
         "quote": "No great mind has ever existed without a touch of madness.",
         "author": "Aristotle",
         "book": null
-    },
-    {
-        "quote": "Marriage can wait, education cannot.",
-        "author": "Khaled Hosseini",
-        "book": "A Thousand Splendid Suns"
     },
     {
         "quote": "If, then, I were asked for the most important advice I could give, that which I considered to be the most useful to the men of our century, I should simply say: in the name of God, stop a moment, cease your work, look around you.",
@@ -12890,6 +12890,11 @@
         "book": null
     },
     {
+        "quote": "The water hears and understands. The ice does not forgive.",
+        "author": "Leigh Bardugo",
+        "book": "Six of Crows"
+    },
+    {
         "quote": "Either you deal with what is the reality, or you can be sure that the reality is going to deal with you.",
         "author": "Alex Haley",
         "book": null
@@ -12913,11 +12918,6 @@
         "quote": "If death meant just leaving the stage long enough to change costume and come back as a new character...Would you slow down? Or speed up?",
         "author": "Chuck Palahniuk",
         "book": "Invisible Monsters"
-    },
-    {
-        "quote": "The water hears and understands. The ice does not forgive.",
-        "author": "Leigh Bardugo",
-        "book": "Six of Crows"
     },
     {
         "quote": "To put everything in balance is good, to put everything in harmony is better.",
@@ -13450,6 +13450,11 @@
         "book": "The Diary of Anaïs Nin, Vol. 1: 1931-1934"
     },
     {
+        "quote": "When people say impossible, they usually mean improbable.",
+        "author": "Leigh Bardugo",
+        "book": "Siege and Storm"
+    },
+    {
         "quote": "To do the useful thing, to say the courageous thing, to contemplate the beautiful thing: that is enough for one man's life.",
         "author": "T.S. Eliot",
         "book": "The Use of Poetry and the Use of Criticism"
@@ -13468,11 +13473,6 @@
         "quote": "When I do good, I feel good. When I do bad, I feel bad. That's my religion.",
         "author": "Abraham Lincoln",
         "book": null
-    },
-    {
-        "quote": "When people say impossible, they usually mean improbable.",
-        "author": "Leigh Bardugo",
-        "book": "Siege and Storm"
     },
     {
         "quote": "Only you can control your future.",
@@ -13885,14 +13885,14 @@
         "book": null
     },
     {
-        "quote": "One should always be drunk. That's all that matters...But with what? With wine, with poetry, or with virtue, as you chose. But get drunk.",
-        "author": "Charles Baudelaire",
-        "book": "Paris Spleen"
-    },
-    {
         "quote": "Crows remember human faces. They remember the people who feed them, who are kind to them. And the people who wrong them too. They don’t forget. They tell each other who to look after and who to watch out for.",
         "author": "Leigh Bardugo",
         "book": "Crooked Kingdom"
+    },
+    {
+        "quote": "One should always be drunk. That's all that matters...But with what? With wine, with poetry, or with virtue, as you chose. But get drunk.",
+        "author": "Charles Baudelaire",
+        "book": "Paris Spleen"
     },
     {
         "quote": "For to know a man's library is, in some measure, to know his mind.",
@@ -14605,6 +14605,11 @@
         "book": "Eleanor & Park"
     },
     {
+        "quote": "It's only those who do nothing that make no mistakes, I suppose.",
+        "author": "Joseph Conrad",
+        "book": "An Outcast of the Islands"
+    },
+    {
         "quote": "A man should hear a little music, read a little poetry, and see a fine picture every day of his life, in order that worldly cares may not obliterate the sense of the beautiful which God has implanted in the human soul.",
         "author": "Johann Wolfgang von Goethe",
         "book": null
@@ -14620,14 +14625,14 @@
         "book": null
     },
     {
+        "quote": "Please, my darling Inej, treasure of my heart, won’t you do me the honor of acquiring me a new hat?",
+        "author": "Leigh Bardugo",
+        "book": "Six of Crows"
+    },
+    {
         "quote": "Learn the rules, break the rules, make up new rules, break the new rules.",
         "author": "Marvin Bell",
         "book": null
-    },
-    {
-        "quote": "It's only those who do nothing that make no mistakes, I suppose.",
-        "author": "Joseph Conrad",
-        "book": "An Outcast of the Islands"
     },
     {
         "quote": "sex is the consolation you have when you can't have love",
@@ -14638,11 +14643,6 @@
         "quote": "People are capable, at any time in their lives, of doing what they dream of.",
         "author": "Paulo Coelho",
         "book": "The Alchemist"
-    },
-    {
-        "quote": "Please, my darling Inej, treasure of my heart, won’t you do me the honor of acquiring me a new hat?",
-        "author": "Leigh Bardugo",
-        "book": "Six of Crows"
     },
     {
         "quote": "If you want to be happy, be.",

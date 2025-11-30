@@ -3,16 +3,18 @@ from bs4 import BeautifulSoup
 import json
 import asyncio
 
-sem = asyncio.Semaphore(10)
+sem = asyncio.Semaphore(25)
 
 async def fetch_url_data(url, sess):
-    try:
-        res = await sess.get(url)
-        data = await res.text()
-        print(f"Fetched | {url}")
-        return (url, data)
-    except Exception as e:
-        print(f"Timed out | {url} | {e}")
+    for attempt in range(3):
+        try:
+            res = await sess.get(url)
+            data = await res.text()
+            print(f"Fetched | {url}")
+            return (url, data)
+        except Exception as e:
+            if attempt == 2:
+                print(f"Timed out | {url} | {e}")
 
 
 async def limited_fetch(url, sess):
@@ -40,7 +42,7 @@ def parser(res):
         book_tag = item.find("a", class_="authorOrTitle")
         book = book_tag.get_text(strip=True) if book_tag else None
 
-        # if len(quote) > 155:
+        # if len(quote) > 150:
         #     continue
 
         quotes.append({
@@ -53,7 +55,7 @@ def parser(res):
 
 async def main():
     sess = aiohttp.ClientSession(
-        timeout=aiohttp.ClientTimeout(30),
+        timeout=aiohttp.ClientTimeout(5),
         cookie_jar=aiohttp.DummyCookieJar()
     )
     tasks = [limited_fetch(f"https://www.goodreads.com/quotes?page={x}", sess) for x in range(1, 101)]
